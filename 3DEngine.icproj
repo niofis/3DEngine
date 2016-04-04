@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="3DEngine"
+	ProjectGUID="{4F6468E2-EF26-4331-BFFD-86FBA3265F2C}"
+	VCNestedProjectGUID="{FD4C3F84-3D4F-4BCF-AD98-AEA7D2B41DA4}"
+	VCNestedProjectFileName="3DEngine.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>
